@@ -1,5 +1,5 @@
-                                 The SAS System                                4
-                                            Sunday, January 11, 2015 07:49:56 AM
+                                 The SAS System                                7
+                                            Sunday, January 11, 2015 08:00:12 AM
 
       Obs    no    sex    age    class    ext    agl    cop    est    opn
 
@@ -28,8 +28,8 @@
        23     7     M      20    tori      20     19     16     19     15
        24    10     M      18    tori      22     24     14     15     13
        25    11     F      18    tori      19     22     21     14     14
-                                 The SAS System                                5
-                                            Sunday, January 11, 2015 07:49:56 AM
+                                 The SAS System                                8
+                                            Sunday, January 11, 2015 08:00:13 AM
 
       Obs    no    sex    age    class    ext    agl    cop    est    opn
 
@@ -38,16 +38,3 @@
        28    24     F      20    tori      16     11     18     21     22
        29    27     F      22    tori      22     11     24     18     19
        30    30     F      18    tori      23      8     11     27     13
-                                 The SAS System                                6
-                                            Sunday, January 11, 2015 07:49:56 AM
-
-                              The MEANS Procedure
-
- Variable     N            Mean         Std Dev         Minimum         Maximum
- ------------------------------------------------------------------------------
- ext         30      18.9333333       4.3702232      11.0000000      24.0000000
- agl         30      20.4333333       4.1827506       8.0000000      24.0000000
- cop         30      17.4000000       4.0649893       7.0000000      24.0000000
- est         30      16.6666667       3.8446858       8.0000000      27.0000000
- opn         30      15.0333333       3.0112815       9.0000000      22.0000000
- ------------------------------------------------------------------------------
