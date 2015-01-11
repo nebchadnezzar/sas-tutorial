@@ -13,8 +13,4 @@ by class;
 proc print  data=bigfive;
 run;
 
-proc means data=bigfive;
-var ext agl cop est opn;
-run;
-
 proc printto;run;
