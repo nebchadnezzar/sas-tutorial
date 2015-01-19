@@ -3,11 +3,11 @@ data bigfive;
 infile '/folders/myfolders/sas-tutorial/bigfive.data';
 input no sex $ age class $ ext agl cop est opn;
 
-proc  printto  log    = "/folders/myfolders/sas-tutorial/sort.log"
-print  = "/folders/myfolders/sas-tutorial/sort.lst"   new;
+proc  printto log = "/folders/myfolders/sas-tutorial/sort.log"
+print  = "/folders/myfolders/sas-tutorial/sort.lst" new;
 run;
 
-proc sort   data=bigfive; 
+proc sort data=bigfive; 
 by class;
 
 proc print  data=bigfive;
